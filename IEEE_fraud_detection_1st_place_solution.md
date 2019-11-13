@@ -39,7 +39,6 @@
   - forward feature selection (using single or groups of features)
     - Feature Importanceを使う（？）
   - recursive feature elimination (using single or groups of features)
-    - 
   - permutation importance
     →わかる（ランダムに値を変えてどれだけ結果が悪くなるかを調べる）
   - adversarial validation
