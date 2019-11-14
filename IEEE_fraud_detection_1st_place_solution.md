@@ -1,3 +1,7 @@
+# Lesson which I learned from below: 
+  - https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284
+  - https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308
+
 # Magic features
 
 - 正解データの付けられ方に着目した
